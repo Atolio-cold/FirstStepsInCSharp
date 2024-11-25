@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\bin\Debug\net8.0\StringAndValueBasic.exe
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\bin\Debug\net8.0\StringAndValueBasic.deps.json
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\bin\Debug\net8.0\StringAndValueBasic.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\bin\Debug\net8.0\StringAndValueBasic.dll
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\bin\Debug\net8.0\StringAndValueBasic.pdb
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.dll
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\refint\StringAndValueBasic.dll
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.pdb
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\StringAndValueBasic.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\StringAndValueBasic\obj\Debug\net8.0\ref\StringAndValueBasic.dll
