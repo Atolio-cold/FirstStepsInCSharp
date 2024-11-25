@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\bin\Debug\net8.0\InteractionsWithTheConsole.exe
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\bin\Debug\net8.0\InteractionsWithTheConsole.deps.json
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\bin\Debug\net8.0\InteractionsWithTheConsole.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\bin\Debug\net8.0\InteractionsWithTheConsole.dll
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\bin\Debug\net8.0\InteractionsWithTheConsole.pdb
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.dll
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\refint\InteractionsWithTheConsole.dll
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.pdb
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\InteractionsWithTheConsole.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\InteractionsWithTheConsole\obj\Debug\net8.0\ref\InteractionsWithTheConsole.dll
