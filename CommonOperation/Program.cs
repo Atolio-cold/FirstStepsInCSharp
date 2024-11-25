@@ -3,6 +3,7 @@ using System.Text;
 
 namespace CommonOperation
 {
+    #region ProgramClassRegion
     class Program
     {
         static void Main(string[] args)
@@ -88,4 +89,5 @@ namespace CommonOperation
 
         }
     }
+    #endregion
 }
