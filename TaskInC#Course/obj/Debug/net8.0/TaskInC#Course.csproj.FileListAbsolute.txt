@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\TaskInC#Course\bin\Debug\net8.0\TaskInC#Course.exe
+C:\anton\programming\C#\PowerShell\TaskInC#Course\bin\Debug\net8.0\TaskInC#Course.deps.json
+C:\anton\programming\C#\PowerShell\TaskInC#Course\bin\Debug\net8.0\TaskInC#Course.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\TaskInC#Course\bin\Debug\net8.0\TaskInC#Course.dll
+C:\anton\programming\C#\PowerShell\TaskInC#Course\bin\Debug\net8.0\TaskInC#Course.pdb
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.dll
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\refint\TaskInC#Course.dll
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.pdb
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\TaskInC#Course.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\TaskInC#Course\obj\Debug\net8.0\ref\TaskInC#Course.dll
