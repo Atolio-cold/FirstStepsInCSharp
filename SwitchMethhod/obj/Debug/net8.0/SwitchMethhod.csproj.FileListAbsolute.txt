@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\SwitchMethhod\bin\Debug\net8.0\SwitchMethhod.exe
+C:\anton\programming\C#\PowerShell\SwitchMethhod\bin\Debug\net8.0\SwitchMethhod.deps.json
+C:\anton\programming\C#\PowerShell\SwitchMethhod\bin\Debug\net8.0\SwitchMethhod.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\SwitchMethhod\bin\Debug\net8.0\SwitchMethhod.dll
+C:\anton\programming\C#\PowerShell\SwitchMethhod\bin\Debug\net8.0\SwitchMethhod.pdb
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.dll
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\refint\SwitchMethhod.dll
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.pdb
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\SwitchMethhod.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\SwitchMethhod\obj\Debug\net8.0\ref\SwitchMethhod.dll
