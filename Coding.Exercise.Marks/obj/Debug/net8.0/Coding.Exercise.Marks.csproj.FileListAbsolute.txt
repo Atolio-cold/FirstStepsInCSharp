@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\bin\Debug\net8.0\Coding.Exercise.Marks.exe
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\bin\Debug\net8.0\Coding.Exercise.Marks.deps.json
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\bin\Debug\net8.0\Coding.Exercise.Marks.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\bin\Debug\net8.0\Coding.Exercise.Marks.dll
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\bin\Debug\net8.0\Coding.Exercise.Marks.pdb
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.dll
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\refint\Coding.Exercise.Marks.dll
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.pdb
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\Coding.Exercise.Marks.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\Coding.Exercise.Marks\obj\Debug\net8.0\ref\Coding.Exercise.Marks.dll
