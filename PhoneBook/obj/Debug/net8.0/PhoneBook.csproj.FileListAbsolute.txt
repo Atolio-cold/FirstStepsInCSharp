@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+C:\anton\programming\C#\PowerShell\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+C:\anton\programming\C#\PowerShell\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+C:\anton\programming\C#\PowerShell\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll
