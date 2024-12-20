@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\bin\Debug\net8.0\Coding.ExerciseTemperatureConverter.exe
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\bin\Debug\net8.0\Coding.ExerciseTemperatureConverter.deps.json
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\bin\Debug\net8.0\Coding.ExerciseTemperatureConverter.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\bin\Debug\net8.0\Coding.ExerciseTemperatureConverter.dll
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\bin\Debug\net8.0\Coding.ExerciseTemperatureConverter.pdb
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.dll
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\refint\Coding.ExerciseTemperatureConverter.dll
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.pdb
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\Coding.ExerciseTemperatureConverter.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\Coding.ExerciseTemperatureConverter\obj\Debug\net8.0\ref\Coding.ExerciseTemperatureConverter.dll
